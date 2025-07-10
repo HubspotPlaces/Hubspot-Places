@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>1. Overview
+The HubSpot Places extension uses the Google Places API to help users autofill company address fields within HubSpot CRM. We are committed to protecting your privacy and handling your data responsibly.
+
+2. Data We Collect
+
+User-entered address queries (used to request suggestions from Google Places API)
+
+API Key stored in Chrome Sync Storage (used only locally in your browser)
+
+3. How We Use Your Data
+
+Address queries are sent to the Google Places API to retrieve autocomplete suggestions and place details
+
+No data is transmitted to or stored on any third-party server controlled by us
+
+4. Data Sharing
+We do not share, sell, or store any personal data. All API requests are made directly from your browser to Google’s API endpoints.
+
+5. Permissions
+The extension requests access to:
+
+hubspot.com pages to enhance forms
+
+Google Maps API for location services
+
+Chrome storage for locally saving your API key
+
+6. Security
+Your API key is stored securely in Chrome Sync Storage and is never transmitted to any third-party other than Google APIs.
+
+7. Contact
+If you have questions or concerns, please contact [yourname@example.com].</p>
+</body>
+</html>
