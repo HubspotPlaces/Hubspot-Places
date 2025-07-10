@@ -1,38 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – HubSpot Places</title>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>1. Overview
-The HubSpot Places extension uses the Google Places API to help users autofill company address fields within HubSpot CRM. We are committed to protecting your privacy and handling your data responsibly.
+  <h1>Privacy Policy for HubSpot Places Chrome Extension</h1>
+  <p><strong>Effective Date:</strong> July 10, 2025</p>
 
-2. Data We Collect
+  <h2>1. Overview</h2>
+  <p>The HubSpot Places extension uses the Google Places API to help users autofill company address fields within HubSpot CRM. We are committed to protecting your privacy and handling your data responsibly.</p>
 
-User-entered address queries (used to request suggestions from Google Places API)
+  <h2>2. Data We Collect</h2>
+  <ul>
+    <li>User-entered address queries (used to request suggestions from Google Places API)</li>
+    <li>API Key stored in Chrome Sync Storage (used only locally in your browser)</li>
+  </ul>
 
-API Key stored in Chrome Sync Storage (used only locally in your browser)
+  <h2>3. How We Use Your Data</h2>
+  <p>Address queries are sent to the Google Places API to retrieve autocomplete suggestions and place details. No data is transmitted to or stored on any third-party server controlled by us.</p>
 
-3. How We Use Your Data
+  <h2>4. Data Sharing</h2>
+  <p>We do not share, sell, or store any personal data. All API requests are made directly from your browser to Google’s API endpoints.</p>
 
-Address queries are sent to the Google Places API to retrieve autocomplete suggestions and place details
+  <h2>5. Permissions</h2>
+  <p>The extension requests access to:</p>
+  <ul>
+    <li>hubspot.com pages to enhance forms</li>
+    <li>Google Maps API for location services</li>
+    <li>Chrome storage for locally saving your API key</li>
+  </ul>
 
-No data is transmitted to or stored on any third-party server controlled by us
+  <h2>6. Security</h2>
+  <p>Your API key is stored securely in Chrome Sync Storage and is never transmitted to any third party other than Google APIs.</p>
 
-4. Data Sharing
-We do not share, sell, or store any personal data. All API requests are made directly from your browser to Google’s API endpoints.
-
-5. Permissions
-The extension requests access to:
-
-hubspot.com pages to enhance forms
-
-Google Maps API for location services
-
-Chrome storage for locally saving your API key
-
-6. Security
-Your API key is stored securely in Chrome Sync Storage and is never transmitted to any third-party other than Google APIs.
-
-7. Contact
-If you have questions or concerns, please contact [yourname@example.com].</p>
+  <h2>7. Contact</h2>
+  <p>If you have questions or concerns, please contact [yourname@example.com].</p>
 </body>
 </html>
